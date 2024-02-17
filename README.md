@@ -5,7 +5,7 @@ Electronics Communication Engineering Student
 - 🔭 Here's My [PORTFOLIO](https://mohammadjamal.vercel.app)
 - ✨ I'm Currently learning DSA
 - 🤔 I’m actively seeking for job as a fresher right now
-- [Contact Me 📧](m.mohammadjamal1961@gmail.com)
+- [Contact Me 📧](mailto:m.mohammadjamal1961@gmail.com)
 - 💬 Ask me about Tech
 <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammadjamalm/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_n/web_emaillogin?uid=cx66eal&token=3bapEg&auto_send=0)
